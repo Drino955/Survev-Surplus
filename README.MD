@@ -53,7 +53,7 @@ Surplus isn’t an original project—it’s a dirty fork of KrityHack with mini
 - A 16-year-old kid from Israel.
 - Made cheats for browser games like deeeep.io.
 - Wrote primitive scripts for Scratch games.
-- Didn’t come up with the injection system—someone else handed him the structure.
+- Developer of a deeeep.io cheat called [blockyfish](https://blockyfish.vercel.app/)
 - GitHub:  
     - [nostopgmaming17](https://github.com/nostopgmaming17)  
 
