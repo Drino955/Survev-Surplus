@@ -21,7 +21,7 @@ Surplus isn’t an original project—it’s a dirty fork of KrityHack with mini
 
 - The functionality is copied 1:1.
 - The UI was written using ChatGPT.
-- The injection system is just prototype hooks that noam didn’t even know how to make—someone else spoon-fed him the idea.
+- The injection system is just prototype hooks that noam did know how to make, and nobody else spoon-fed him the idea.
 - The core code was blatantly copied from the public KrityHack repository.
 - They obfuscated it all to hide the theft.
 - When the code got deobfuscated, they denied everything until they were cornered with no way out.
@@ -53,7 +53,7 @@ Surplus isn’t an original project—it’s a dirty fork of KrityHack with mini
 - A 16-year-old kid from Israel.
 - Made cheats for browser games like deeeep.io.
 - Wrote primitive scripts for Scratch games.
-- Didn’t come up with the injection system—someone else handed him the structure.
+- Developer of a deeeep.io cheat called [blockyfish](https://blockyfish.vercel.app/)
 - GitHub:  
     - [nostopgmaming17](https://github.com/nostopgmaming17)  
 
