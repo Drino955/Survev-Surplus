@@ -2,7 +2,7 @@
 
 ## About the Project
 
-**Surplus** is a "new" cheat for the game **surviv.io**, which in reality is just a shameless fork of the cheat [**KrityHack**](https://github.com/Drino955/survev-krityhack). Its authors, **noam** and **mahdi**, stole the source code from [KrityHack](https://github.com/Drino955/survev-krityhack), slightly tweaked the UI, slapped on their own injection system, and started promote it under a new name, obfuscating everything to cover up their theft.
+**Surplus** is a "new" cheat for the game **survev.io**, which in reality is just a shameless fork of the cheat [**KrityHack**](https://github.com/Drino955/survev-krityhack). Its authors, **noam** and **mahdi**, stole the source code from [KrityHack](https://github.com/Drino955/survev-krityhack), slightly tweaked the UI, slapped on their own injection system, and started promote it under a new name, obfuscating everything to cover up their theft.
 
 ![Surplus cheat](./images/surplus-game.png)
 
